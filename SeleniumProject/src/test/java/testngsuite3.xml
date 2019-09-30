@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="methods">
+	<test name="Smoke">
+		<packages>
+			<package name="testngFeatures.*"></package>
+		</packages>
+	</test> <!-- Test -->
+	<!-- Test -->
+</suite> <!-- Suite -->
